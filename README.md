@@ -3,7 +3,7 @@ cybersecurity-portfolio/
 ├── README.md                     <-- Main portfolio overview
 │
 ├── 01-home-lab/
-│   ├── README.md                 <-- Summary of your lab build
+│   ├── README.md                 <-- Summary of lab build
 │   ├── network-diagram.png
 │   ├── screenshots/
 │   └── config-files/
